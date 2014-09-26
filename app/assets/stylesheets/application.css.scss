@@ -1,0 +1,12 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body {
+	padding: 20px 0;
+}
+
+.container.marketing {
+	.col-lg-4 {
+		text-align: center;
+	}
+}
