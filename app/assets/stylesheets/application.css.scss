@@ -1,12 +1,12 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+@import "page";
+
 body {
 	padding: 20px 0;
 }
 
-.container.marketing {
-	.col-lg-4 {
-		text-align: center;
-	}
+h5 {
+	font-weight: 800;
 }
